@@ -1,0 +1,22 @@
+{
+  "name": "postalWebpack",
+  "version": "0.0.0",
+  "authors": [
+    "RainerAtSpirit <R.Wittmann@spirit.de>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "postal": "~1.0.6",
+    "riveter": "~0.1.2",
+    "postal.xframe": "~0.3.2",
+    "postal.federation": "~0.2.4",
+    "postal.request-response": "~0.3.1"
+  }
+}
